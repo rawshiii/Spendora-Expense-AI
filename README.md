@@ -1,72 +1,32 @@
 # Spendora - ExpenseAI 💸
 
-A full-stack personal finance management platform built using the MERN Stack that helps users track expenses, manage budgets, set financial goals, and gain intelligent insights into their spending habits.
-
----
+Spendora is a full-stack personal finance management application built using the MERN Stack. It helps users track expenses, manage budgets, set financial goals, and analyze spending habits through interactive dashboards and AI-powered insights.
 
 ## Features
 
-### Authentication
-
-* User Registration & Login
-* JWT-based Authentication
-* Protected Routes
-
-### Expense Management
-
-* Add Expenses
-* Edit Expenses
-* Delete Expenses
-* Categorize Transactions
-* Receipt Upload Support
-
-### Analytics Dashboard
-
-* Category-wise Expense Breakdown
-* Monthly Spending Trends
-* Interactive Charts & Visualizations
-
-### Budget Planning
-
-* Create Category-wise Budgets
-* Budget Tracking
-* Budget Progress Monitoring
-* Overspending Alerts
-
-### Financial Goals
-
-* Create Savings Goals
-* Track Goal Progress
-* Monitor Target Completion
-
-### AI Insights
-
-* Spending Analysis
-* Highest Spending Category Detection
-* Budget Utilization Warnings
-* Savings Recommendations
-* Goal Progress Insights
-
-### Utilities
-
-* Calendar View
-* PDF Report Export
+* User Authentication (JWT)
+* Expense Tracking
+* Add, Edit and Delete Expenses
+* Budget Management
+* Financial Goal Tracking
+* Analytics Dashboard
+* AI Financial Insights
+* Receipt Upload
+* PDF Export
 * CSV Export
-* User Profile Management
-
----
+* Calendar View
+* User Profile
 
 ## Tech Stack
 
 ### Frontend
 
 * React.js
-* React Router DOM
-* Axios
 * Tailwind CSS
+* React Router
+* Axios
 * Recharts
 * React Hook Form
-* Lucide React
 
 ### Backend
 
@@ -77,45 +37,19 @@ A full-stack personal finance management platform built using the MERN Stack tha
 * JWT Authentication
 * Multer
 
----
-
-## Project Structure
-
-```txt
-backend/
-frontend/
-docs/
-```
-
----
-
 ## Screenshots
 
-### Dashboard
+Dashboard
 
-(Add dashboard screenshot)
+Analytics
 
-### Analytics
+Budgets
 
-(Add analytics screenshot)
+Goals
 
-### Budgets
+Profile
 
-(Add budgets screenshot)
-
-### Goals
-
-(Add goals screenshot)
-
-### Profile
-
-(Add profile screenshot)
-
-### Calendar
-
-(Add calendar screenshot)
-
----
+Calendar
 
 ## Installation
 
@@ -135,35 +69,18 @@ npm install
 npm run dev
 ```
 
----
-
-## Key Highlights
+## Project Highlights
 
 * Developed a complete MERN-based expense management platform.
-* Implemented secure JWT authentication and protected routes.
-* Built budgeting and financial goal tracking modules.
-* Created interactive analytics dashboards using Recharts.
+* Implemented secure authentication and protected routes.
+* Built budgeting and goal-tracking modules.
+* Created interactive analytics dashboards for spending insights.
+* Added AI-powered financial recommendations.
 * Integrated receipt uploads and export functionality.
-* Developed AI-inspired financial recommendations and spending insights.
-* Designed a responsive user interface using Tailwind CSS.
-
----
-
-## Future Enhancements
-
-* Advanced Financial Forecasting
-* Email Notifications
-* Expense Prediction using Machine Learning
-* Mobile Application
-* Multi-Currency Support
-
----
 
 ## Author
 
-**Rashi Jain**
-
-B.Tech Computer Science Engineering (2028)
+Rashi Jain
 
 GitHub: https://github.com/rawshiii
 
