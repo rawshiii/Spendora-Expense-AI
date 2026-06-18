@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const api = axios.create({
-  baseURL: 'https://spendora-expense-ai.onrender.com',
+  baseURL: 'https://spendora-expense-ai.onrender.com/api',
 });
 
 api.interceptors.request.use((config) => {
