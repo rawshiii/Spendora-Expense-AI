@@ -78,6 +78,14 @@ npm run dev
 * Added AI-powered financial recommendations.
 * Integrated receipt uploads and export functionality.
 
+## Live Demo
+
+Frontend:
+https://your-vercel-url.vercel.app
+
+Backend:
+https://spendora-expense-ai.onrender.com
+
 ## Author
 
 Rashi Jain
